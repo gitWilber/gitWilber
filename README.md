@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @gitWilber
+- 👀 I’m interested in sports science. 
+- 🌱 I’m currently learning python.
+- 💞️ I’m looking to collaborate on anything.
+- 📫 How to reach me: w.rosales40@gmail.com
